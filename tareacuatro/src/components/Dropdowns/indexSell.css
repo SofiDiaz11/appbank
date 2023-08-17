@@ -1,0 +1,13 @@
+main.body {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    margin: 150px;
+}
+
+.table{
+    border-collapse: separate;
+    border-style: double none;
+    margin-top: 10px;
+}
